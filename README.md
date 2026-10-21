@@ -39,4 +39,3 @@ Projet conçu en équipe avec : [PK - Matteo]
 <img width="603" height="360" alt="image" src="https://github.com/user-attachments/assets/dc0b4696-bb4e-4e06-a832-352c26efcce0" />
 
 
-![Moodboard](moodboard.jpg)
